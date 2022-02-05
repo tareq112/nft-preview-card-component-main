@@ -1,0 +1,8 @@
+.container{
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+}
+.container-fluid{
+    align-items: center;
+    justify-content: center;
+}
