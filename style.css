@@ -6,3 +6,24 @@
     align-items: center;
     justify-content: center;
 }
+
+/* ==========
+    Header
+   =========== */
+.header{
+    border: 1px solid red;
+}
+
+/* ==========
+   MAIN
+   =========== */
+.main{
+    border: 1px solid white;
+}
+
+/* ==========
+    Footer
+   =========== */
+.footer{
+    border: 1px solid red;
+}
